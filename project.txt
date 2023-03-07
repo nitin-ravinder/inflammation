@@ -1,3 +1,7 @@
 Some initial data analysis to identify how inflammation changes over time after surgery.
 
 Project leader: Whoever raised their hand
+
+some extra details:
+- one
+- two
